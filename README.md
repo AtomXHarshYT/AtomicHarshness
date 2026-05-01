@@ -27,8 +27,7 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=AtomXHarshYT&theme=tokyonight)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=AtomXHarshYT&theme=tokyo-night)
-
+![Graph](https://activity-graph.herokuapp.com/graph?username=AtomXHarshYT&theme=tokyonight)
 ---
 
 ## 📫 Contact
