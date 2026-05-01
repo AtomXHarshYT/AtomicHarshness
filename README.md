@@ -1,16 +1,8 @@
-  # Hi, I'm Harsh 👋
+# Hi, I'm Harsh 👋
 
 💻 Backend & Automation Developer  
 ⚡ Building real-world systems (FastAPI, dashboards, trading tools)  
 📍 India  
-
----
-
-## 🚀 What I Do
-- Build scalable web apps
-- Automate workflows
-- Design clean UI systems
-- Work on trading signal logic
 
 ---
 
@@ -22,6 +14,14 @@
 
 ---
 
+## 🚀 What I Do
+- Build scalable web apps  
+- Automate workflows  
+- Design clean UI systems  
+- Work on trading signal logic  
+
+---
+
 ## ⚡ GitHub Dashboard
 
 <p align="center">
@@ -29,13 +29,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtomXHarshYT&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtomXHarshYT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtomXHarshYT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtomXHarshYT&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtomXHarshYT&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtomXHarshYT&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtomXHarshYT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtomXHarshYT&theme=tokyonight" />
 </p>
 
 ---
