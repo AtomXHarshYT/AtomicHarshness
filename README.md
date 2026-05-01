@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Automation+Builder;FastAPI+Focused;Building+Real+Systems" />
+</p>
 # Hi, I'm Harsh 👋
 
 💻 Backend & Automation Developer  
