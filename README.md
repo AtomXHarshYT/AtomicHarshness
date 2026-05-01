@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+Builder;FastAPI+Focused;Building+Real+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Builder;Automation+Explorer;Using+AI+to+Build+Real+Systems;Always+Learning+by+Doing" />
 </p>
 
 <p align="center">
@@ -9,16 +9,18 @@
 <h1 align="center">Hi, I'm Harsh 👋</h1>
 
 <p align="center">
-  💻 <strong>Backend & Automation Developer</strong><br>
-  ⚡ Building real-world systems (FastAPI, dashboards, trading tools)<br>
+  💻 Backend-focused builder<br>
+  ⚡ I use logic + AI to create real working systems<br>
   📍 India
 </p>
 
 ---
 
 ## 💡 About Me
-I build practical systems focused on automation, backend logic, and real-world use cases.  
-Currently improving trading signal accuracy and scalable backend architecture.
+I focus on building practical systems using my own logic combined with AI tools.  
+Not a traditional coder, but I understand how things work and make them work.  
+
+I enjoy solving problems, automating tasks, and experimenting with backend systems.
 
 ---
 
@@ -44,19 +46,19 @@ Currently improving trading signal accuracy and scalable backend architecture.
 ## 🚀 What I Do ✨
 
 <p align="center">
-  🏗️ Build scalable web apps &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏗️ Build backend systems using logic + AI &nbsp;&nbsp;|&nbsp;&nbsp;
   ⚙️ Automate workflows &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎨 Design clean UI systems &nbsp;&nbsp;|&nbsp;&nbsp;
-  📈 Trading signal logic
+  🎯 Turn ideas into working projects &nbsp;&nbsp;|&nbsp;&nbsp;
+  📈 Experiment with trading systems
 </p>
 
 ---
 
 ## 🔭 Current Focus
 
-- Improving trading signal accuracy  
-- Building scalable backend systems  
-- Automation tools for real-world use  
+- Improving trading signal logic  
+- Building smarter backend systems using AI  
+- Learning by building real projects  
 
 ---
 
