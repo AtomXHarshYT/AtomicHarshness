@@ -1,68 +1,62 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Builder;Automation+Explorer;Using+AI+to+Build+Real+Systems;Always+Learning+by+Doing" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f7ff,100:0a0f1e&height=120&section=header&text=AtomXHarshYT&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=500&color=00F7FF&center=true&vCenter=true&width=550&lines=Backend+Developer;Problem+Solver;AI+Assisted+Coding;Building+Real+Things" />
 </p>
 
 <h1 align="center">Hi, I'm Harsh 👋</h1>
 
 <p align="center">
-  💻 Backend-focused builder<br>
-  ⚡ I use logic + AI to create real working systems<br>
-  📍 India
+  💻 <strong>Backend Developer</strong> (Python, FastAPI, APIs)<br>
+  🤖 <strong>AI-Assisted Coder</strong> — I write logic, AI helps me build faster<br>
+  ⚡ <strong>Building real systems</strong> (dashboards, automation, trading tools)<br>
+  📍 <strong>India</strong>
 </p>
 
----
+<br>
 
-## 💡 About Me
-I focus on building practical systems using my own logic combined with AI tools.  
-Not a traditional coder, but I understand how things work and make them work.  
-
-I enjoy solving problems, automating tasks, and experimenting with backend systems.
-
----
-
-## 🧠 Tech Stack ⚡
+<h2 align="center">🧠 What I Actually Do</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <strong>✅ Backend Logic:</strong> I understand APIs, databases, authentication, and workflows — that's my core.<br>
+  <strong>✅ AI as My Coding Partner:</strong> For frontend stuff, complex snippets, or learning new things, I use AI tools.<br>
+  <strong>✅ Result:</strong> I build things faster without pretending to know everything.
+</p>
+
+<br>
+
+<h2 align="center">🛠️ Tech I Work With</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-6A1B9A?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Coding-00F7FF?style=for-the-badge" />
 </p>
-
----
-
-## 🚀 What I Do ✨
 
 <p align="center">
-  🏗️ Build backend systems using logic + AI &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚙️ Automate workflows &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎯 Turn ideas into working projects &nbsp;&nbsp;|&nbsp;&nbsp;
-  📈 Experiment with trading systems
+  <small>⚡ HTML/CSS? I can tweak it. But for serious frontend, AI helps me — no shame in that!</small>
 </p>
 
----
+<br>
 
-## 🔭 Current Focus
+<h2 align="center">🚀 What I'm Building</h2>
 
-- Improving trading signal logic  
-- Building smarter backend systems using AI  
-- Learning by building real projects  
+<p align="center">
+  🏗️ Backend APIs &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚙️ Automation workflows &nbsp;&nbsp;|&nbsp;&nbsp;
+  📊 Dashboards &nbsp;&nbsp;|&nbsp;&nbsp;
+  📈 Trading signal logic
+</p>
 
----
+<br>
 
-## ⚡ GitHub Dashboard 📊
+<h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtomXHarshYT&theme=tokyonight" />
@@ -78,9 +72,9 @@ I enjoy solving problems, automating tasks, and experimenting with backend syste
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtomXHarshYT&theme=tokyonight" />
 </p>
 
----
+<br>
 
-## 📫 Contact 📧
+<h2 align="center">📫 Connect</h2>
 
 <p align="center">
   <a href="mailto:harshgaming0958@gmail.com">
@@ -92,11 +86,11 @@ I enjoy solving problems, automating tasks, and experimenting with backend syste
 </p>
 
 <p align="center">
-  <i>harshgaming0958@gmail.com</i>
+  📧 <strong>harshgaming0958@gmail.com</strong>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer" />
 </p>
