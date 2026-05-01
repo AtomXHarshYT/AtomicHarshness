@@ -23,11 +23,15 @@
 ---
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Streak](https://streak-stats.demolab.com/?user=AtomXHarshYT&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=AtomXHarshYT&theme=tokyonight" height="170"/>
+</p>
 
-![Graph](https://activity-graph.herokuapp.com/graph?username=AtomXHarshYT&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomXHarshYT&layout=compact&theme=tokyonight"/>
+</p>
 ---
 
 ## 📫 Contact
