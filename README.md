@@ -1,4 +1,4 @@
-# Hi, I'm Harsh 👋
+  # Hi, I'm Harsh 👋
 
 💻 Backend & Automation Developer  
 ⚡ Building real-world systems (FastAPI, dashboards, trading tools)  
@@ -25,10 +25,6 @@
 ## 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com/?user=AtomXHarshYT&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomXHarshYT&layout=compact&theme=tokyonight" />
 
 ---
 
