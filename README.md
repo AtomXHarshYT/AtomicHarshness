@@ -24,14 +24,11 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=AtomXHarshYT&theme=tokyonight" height="170"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomXHarshYT&layout=compact&theme=tokyonight"/>
-</p>
+![Streak](https://streak-stats.demolab.com/?user=AtomXHarshYT&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomXHarshYT&layout=compact&theme=tokyonight)
 
 ---
 
