@@ -23,8 +23,8 @@
 ---
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AtomiXHarshYT&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=AtomiXHarshYT&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=AtomXHarshYT&theme=tokyonight)
 
 ---
 
