@@ -22,9 +22,21 @@
 
 ---
 
-## 📊 Stats
+## ⚡ GitHub Dashboard
 
-<img src="https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtomXHarshYT&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtomXHarshYT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtomXHarshYT&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtomXHarshYT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtomXHarshYT&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
 
