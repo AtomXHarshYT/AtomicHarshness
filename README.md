@@ -87,7 +87,6 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AtomXHarshYT&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00f7ff&fire=7a4fdd&currStreakLabel=00f7ff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=AtomXHarshYT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=00f7ff&title_color=00f7ff" width="49%" />
 
 <br/><br/>
 
