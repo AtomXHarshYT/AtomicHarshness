@@ -70,7 +70,7 @@
 
 | 🏗️ Backend APIs | ⚙️ Automation Workflows | 📊 Dashboards | 📈 Trading Signal Logic |
 |:---:|:---:|:---:|:---:|
-| Scalable REST APIs & microservices | End-to-end process automation | Data-rich visual dashboards | Algorithmic trading signal systems |
+| Scalable REST APIs & microservices | End-to-end process automation | Data-rich visual dashboards | SaaS Products |
 
 </div>
 
